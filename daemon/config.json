@@ -1,0 +1,8 @@
+{
+  "secret": "password",
+  "salt": "salt",
+  "iterations": 100000,
+  "hash": "sha3-512",
+  "working_dir": "./",
+  "ext": ".enc"
+}
